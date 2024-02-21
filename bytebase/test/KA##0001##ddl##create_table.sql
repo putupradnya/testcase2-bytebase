@@ -1,0 +1,1 @@
+CREATE TABLE DATA_CLAIM(kode_claim int, nama varchar(255), email varchar(255));
