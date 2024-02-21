@@ -1,0 +1,1 @@
+CREATE TABLE DATA_ASURANSI(kode_claim int, nama varchar(255));
